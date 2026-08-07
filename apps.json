@@ -1,0 +1,64 @@
+{
+  "apps": [
+    {
+      "id": "1",
+      "name": "SpeakZen - English Spoken",
+      "short_description": "Improve your English speaking with daily practice",
+      "package_id": "com.spoken.english.practice",
+      "rating": "4.5",
+      "downloads": "10K+",
+      "gradient_start": "#3B82F6",
+      "gradient_end": "#6366F1",
+      "banner": "app_speakzen",
+      "icon_url": "https://lh3.googleusercontent.com/ffxg-SuqW-8KsaSWTlDrhPrTD6dKmfv1jFYq6katzaeWLCw6wFswd9lrcx19TcBrYoKWKLGyIZ8a3rylaR4fnqc"
+    },
+    {
+      "id": "2",
+      "name": "Learn C++ Programming",
+      "short_description": "Master DSA and competitive programming in C",
+      "package_id": "com.coding.dmr.cp",
+      "rating": "4.7",
+      "downloads": "50K+",
+      "gradient_start": "#10B981",
+      "gradient_end": "#059669",
+      "banner": "app_cpp",
+      "icon_url": "https://lh3.googleusercontent.com/esGVx8UTtwdVG__2BTks6XgB7vX464GqO-ETlmRgxZ15M9UWlam6lVi1MsLWReYUJpfpZhtUVSHTDRZI-N4K5g"
+    },
+    {
+      "id": "3",
+      "name": "Learn C Programming",
+      "short_description": "Complete C course from basics to advanced",
+      "package_id": "com.coding.dmr.c",
+      "rating": "4.6",
+      "downloads": "25K+",
+      "gradient_start": "#F59E0B",
+      "gradient_end": "#EF4444",
+      "banner": "app_c",
+      "icon_url": "https://lh3.googleusercontent.com/Fbhe44KZcZlbg2mIZSn8COBDHYKlHEgi1-TgoSzf5B9X5YAYklDgHKFsaRTX1zLgHYryhxWF9vrh4L7vNtSg"
+    },
+    {
+      "id": "4",
+      "name": "Learn Java Programming",
+      "short_description": "Complete Java course from basics to advanced OOP",
+      "package_id": "com.coding.dmr.java",
+      "rating": "4.6",
+      "downloads": "25K+",
+      "gradient_start": "#F59E0B",
+      "gradient_end": "#EF4444",
+      "banner": "app_java",
+      "icon_url": "https://lh3.googleusercontent.com/AHJFymFJsUbhbMDGn76C4LUJiCT3cetpxlXsluu1AbGeaA2CrpPh5_DFk_Vb5soK2i3_o5w9iNaUIrsWT3e-ydw"
+    },
+    {
+      "id": "5",
+      "name": "Learn Kotlin Programming",
+      "short_description": "Complete Kotlin course from basics to advanced OOP",
+      "package_id": "com.coding.dmr.kotlin",
+      "rating": "4.2",
+      "downloads": "5K+",
+      "gradient_start": "#F59E0B",
+      "gradient_end": "#EF4444",
+      "banner": "app_kotlin",
+      "icon_url": "https://lh3.googleusercontent.com/AHJFymFJsUbhbMDGn76C4LUJiCT3cetpxlXsluu1AbGeaA2CrpPh5_DFk_Vb5soK2i3_o5w9iNaUIrsWT3e-ydw"
+    }
+  ]
+}
