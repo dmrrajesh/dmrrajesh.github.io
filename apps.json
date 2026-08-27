@@ -59,6 +59,18 @@
       "gradient_end": "#EF4444",
       "banner": "app_kotlin",
       "icon_url": "https://lh3.googleusercontent.com/AHJFymFJsUbhbMDGn76C4LUJiCT3cetpxlXsluu1AbGeaA2CrpPh5_DFk_Vb5soK2i3_o5w9iNaUIrsWT3e-ydw"
+    },
+    {
+      "id": "6",
+      "name": "Learn Python Programming",
+      "short_description": "Complete Kotlin course from basics to advanced OOP",
+      "package_id": "com.coding.dmr.python",
+      "rating": "4.6",
+      "downloads": "15K+",
+      "gradient_start": "#F59E0B",
+      "gradient_end": "#EF4444",
+      "banner": "app_python",
+      "icon_url": "https://lh3.googleusercontent.com/Tev6ITPtaumkIxIJUkyqkJXhTcqQJGBAySZ6FeFXfGNsUOYWWd-ARhibXuLXy44XbgAu3xTpLhK8iEUoay3xI78"
     }
   ]
 }
