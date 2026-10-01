@@ -83,6 +83,18 @@
       "gradient_end": "#06B6D4",
       "banner": "app_dart",
       "icon_url": "https://lh3.googleusercontent.com/5mMBW9N4Gebk7Q2ZbvxCQBBisZhb4fhprdiMJn1SqEFY0IPT4IrC-2FXap4h59S083yBY6n_X6bKRP9WJrh5"
+    },
+    {
+      "id": "8",
+      "name": "Mojo & AI Coding",
+      "short_description": "Learn Mojo programming for AI, ML and high-performance computing",
+      "package_id": "com.coding.dmr.mojo",
+      "rating": "4.5",
+      "downloads": "5K+",
+      "gradient_start": "#111827",
+      "gradient_end": "#F97316",
+      "banner": "app_mojo",
+      "icon_url": ""
     }
   ]
 }
