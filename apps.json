@@ -95,6 +95,30 @@
       "gradient_end": "#F97316",
       "banner": "app_mojo",
       "icon_url": "https://lh3.googleusercontent.com/omMP1S1pnSJ3cuxSf-q1k0-ev47kJ-DIEHj6jn9YspU5P5-KVE3z_BJUSi3S4ND0gct3XViJrwa8-ZrPfv6weg"
+    },
+    {
+      "id": "9",
+      "name": "Learn JavaScript",
+      "short_description": "Learn JavaScript from basics to advanced programming",
+      "package_id": "com.coding.dmr.javascript",
+      "rating": "4.5",
+      "downloads": "5K+",
+      "gradient_start": "#F7DF1E",
+      "gradient_end": "#EAB308",
+      "banner": "app_javascript",
+      "icon_url": "https://lh3.googleusercontent.com/4GqndVfF1lyxUNxFMKL4nxs0taCbfRzefc3_xtdknNBLd9EWS6lg_JQFsEllSfhbFsDO2zkLJ6Yw-7_9SRkBlrk"
+    },
+    {
+      "id": "10",
+      "name": "Learn TypeScript",
+      "short_description": "Learn TypeScript with examples and practical coding",
+      "package_id": "com.coding.dmr.typescript",
+      "rating": "4.5",
+      "downloads": "5K+",
+      "gradient_start": "#3178C6",
+      "gradient_end": "#235A97",
+      "banner": "app_typescript",
+      "icon_url": "https://lh3.googleusercontent.com/DmWy-EU4owLg3w1pn5XCk_v6UvExY9pkecCLpyLSXvaC05ElgGH5mgBBsNFsizZTx95k4ORoMfQPVbujR63NgQ"
     }
   ]
 }
