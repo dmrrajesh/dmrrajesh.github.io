@@ -2,7 +2,7 @@
   {
     "id": "promo_1",
     "imageUrl": "https://dmrrajesh.github.io/promo/intraday-x.webp",
-    "targetUrl": "https://kabaddo.in/appinstall?ref=InstaX100",
+    "targetUrl": "",
     "title": "",
     "enabled": true,
     "targetPackages": [],
@@ -13,7 +13,7 @@
   {
     "id": "promo_2",
     "imageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1000&q=80",
-    "targetUrl": "https://github.com",
+    "targetUrl": "https://kabaddo.in/appinstall?ref=InstaX100",
     "title": "Practice Coding & Solve Interview Problems",
     "enabled": false,
     "targetPackages": ["com.coding.dmr.cp"],
