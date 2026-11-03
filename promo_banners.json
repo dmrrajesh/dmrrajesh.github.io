@@ -1,0 +1,35 @@
+[
+  {
+    "id": "promo_1",
+    "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1000&q=80",
+    "targetUrl": "https://isocpp.org",
+    "title": "Master Modern C++20 & Data Structures",
+    "enabled": true,
+    "targetPackages": [],
+    "startDate": "2025-01-01",
+    "endDate": "2030-12-31",
+    "showForProUsers": true
+  },
+  {
+    "id": "promo_2",
+    "imageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1000&q=80",
+    "targetUrl": "https://github.com",
+    "title": "Practice Coding & Solve Interview Problems",
+    "enabled": true,
+    "targetPackages": ["com.coding.dmr.cp"],
+    "startDate": null,
+    "endDate": null,
+    "showForProUsers": true
+  },
+  {
+    "id": "promo_3",
+    "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1000&q=80",
+    "targetUrl": "https://cppreference.com",
+    "title": "Explore STL Containers & Algorithms",
+    "enabled": true,
+    "targetPackages": [],
+    "startDate": null,
+    "endDate": null,
+    "showForProUsers": false
+  }
+]
