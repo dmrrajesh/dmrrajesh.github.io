@@ -1,0 +1,19 @@
+1.Live JSON Remote Endpoint: https://dmrrajesh.github.io/promo_banners.json
+
+2.All Supported JSON Parameters:
+◦id: String (Unique ID)
+◦imageUrl: String (Direct Image URL)
+◦targetUrl: String (Web Link, market:// Play Store Link, ya app:// Deep Link)
+◦title: String (Bottom Caption Text)
+◦enabled: Boolean (true / false)
+◦targetPackages: Array of Package Names ([] for All Apps)
+◦startDate: String ("YYYY-MM-DD")
+◦endDate: String ("YYYY-MM-DD")
+◦showForProUsers: Boolean (true / false)
+
+3.Banner Image Dimensions:
+◦Resolution: 1000 x 400 pixels (Aspect Ratio 2.5 : 1)
+◦Container Height: 125.dp
+◦Format: WebP / PNG / JPG
+
+4.Deep Linking Support: Web links (https://), Play Store (market://details?id=...), aur Custom Deep Links (app://...) sabhi tap karne par open honge.
