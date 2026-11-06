@@ -2,10 +2,10 @@
   {
     "id": "promo_1",
     "imageUrl": "https://dmrrajesh.github.io/promo/intraday-x.webp",
-    "targetUrl": "https://kabaddo.in/appinstall?ref=InstaX100",
+    "targetUrl": "",
     "title": "",
     "enabled": true,
-    "targetPackages": ["com.coding.dmr.c"],
+    "targetPackages": [],
     "startDate": "2025-01-01",
     "endDate": "2030-12-31",
     "showForProUsers": true
