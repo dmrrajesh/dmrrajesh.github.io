@@ -5,7 +5,7 @@
     "targetUrl": "",
     "title": "",
     "enabled": true,
-    "targetPackages": [],
+    "targetPackages": ["com.coding.dmr.c"],
     "startDate": "2025-01-01",
     "endDate": "2030-12-31",
     "showForProUsers": true
